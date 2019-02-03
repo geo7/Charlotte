@@ -19,37 +19,63 @@ Thoughout this course you'll learn the following soft and hard skills:
 ## Prereq:
 Read this short introduction about asking questions:
 ```
-When asking a question about code, make sure your question is specific and provides all information up-front. Here's a short checklist of what to include. For more details about each section, continue reading this page.
+When asking a question about code, make sure your question is specific and
+provides all information up-front. Here's a short checklist of what to include.
+For more details about each section, continue reading this page.
 
-    A concise but descriptive title.
-    A good description of the problem.
-    A minimal, easily runnable, and well-formatted program that demonstrates your problem.
-    The output you expected, and what you got instead. If you got an error, include the full error message.
+   * A concise but descriptive title.
+   * A good description of the problem.
+   * A minimal, easily runnable, and well-formatted program that demonstrates
+     your problem.
+   * The output you expected, and what you got instead. If you got an error,
+     include the full error message.
 
-Do your best to solve your problem before posting. The quality of the answers will be proportional to the amount of effort you put into your post.
-
+Do your best to solve your problem before posting. The quality of the answers
+will be proportional to the amount of effort you put into your post.
 
 Writing a good description of the problem
 
-When describing your problem, include as much useful information as possible. Try and include as many of the below pieces as possible -- the more info you include, the higher the chances of getting a useful response:
+When describing your problem, include as much useful information as possible.
+Try and include as many of the below pieces as possible -- the more info you
+include, the higher the chances of getting a useful response:
 
-    What is your code sample you provided supposed to do?
-    What exactly is the problem you're seeing?
-    What is the expected output or behavior of your program?
-    What output or behavior do you get instead?
-    If your code doesn't compile or crash, is there an error message of any kind? If so, what is it? If not, what happened?
-    What have you already tried to debug your own problem? Where do you suspect the problem is? What uncertainties do you have?
-    What precisely are you confused by?
+   * What is your code sample you provided supposed to do?
+   * What exactly is the problem you're seeing?
+   * What is the expected output or behavior of your program?
+   * What output or behavior do you get instead?
+   * If your code doesn't compile or crash, is there an error message of any kind? If
+     so, what is it? If not, what happened?
+   * What have you already tried to debug your own problem? Where do you suspect the
+     problem is? What uncertainties do you have?
+   * What precisely are you confused by?
 
-The expectation is that you've spent some time trying to solve your question and polishing your question before you post it.
+The expectation is that you've spent some time trying to solve your question and
+polishing your question before you post it.
 
-In the event that you do your own research and come up dry, be sure to mention what you've already tried/searched for as well as what the results were. This will guide people in helping you and also open up your research techniques to scrutiny and improvement.
+In the event that you do your own research and come up dry, be sure to mention
+what you've already tried/searched for as well as what the results were. This
+will guide people in helping you and also open up your research techniques to
+scrutiny and improvement.
 
 Some other DOs and DON'Ts:
 
-    DO try and be concise. It's important to include as much info as possible, but you also don't want to waste people's time by including irrelevant details.
-    DO NOT link to some other website where you asked your question (e.g. Stackoverflow), because we do not want to discuss the same problem in different places. Your question should be complete and self-contained. When you post a question on one website, wait a day or two to give people time to answer your question. Don't simultaneously post -- that just means double work for people who take time to reply.
-    DO NOT use this this channel as a proxy for Google. Please put in genuine and significant effort into solving a problem for yourself first before posting it in this channel. Otherwise, not only are you wasting everyone's time, you are doing yourself a disservice. Finding information and doing your own research is one of the most important skills a programmer can have. The only way to get better at it is by taking the initiative and looking for existing information yourself. Only then ask others for help.
+    DO try and be concise. It's important to include as much info as possible, but
+    you also don't want to waste people's time by including irrelevant details.
+
+    DO NOT link to some other website where you asked your question (e.g.
+    Stackoverflow), because we do not want to discuss the same problem in different
+    places. Your question should be complete and self-contained. When you post a
+    question on one website, wait a day or two to give people time to answer your
+    question. Don't simultaneously post -- that just means double work for people
+    who take time to reply.
+
+    DO NOT use this this channel as a proxy for Google. Please put in genuine and
+    significant effort into solving a problem for yourself first before posting it
+    in this channel. Otherwise, not only are you wasting everyone's time, you are
+    doing yourself a disservice. Finding information and doing your own research is
+    one of the most important skills a programmer can have. The only way to get
+    better at it is by taking the initiative and looking for existing information
+    yourself. Only then ask others for help.
 ```
 *Source (reworded slightly): https://www.reddit.com/r/learnprogramming/wiki/index#wiki_getting_debugging_help*
 All questions about this course should be asked on the **#colab** channel.
